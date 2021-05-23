@@ -29,4 +29,8 @@ No other contributors allowed.
 ## Questions
  If you have any questions about the repo, ask someone else.
 
+
+## Walkthrough Video
+https://drive.google.com/file/d/1lUBnsOu5rzoAThGPjG_IQBIJ2SQC_V8f/view
+
  Generated with ❤️ by Paden Allen
