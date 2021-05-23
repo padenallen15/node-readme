@@ -1,4 +1,4 @@
-# My readme generator
+# node-readme
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -8,29 +8,25 @@
  - [Usage](#usage)
  - [License](#license)
  - [Contributing](#contributing)
- - [Tests](#tests)
  - [Questions](#questions)
 
 ## Description
- this readme is generated using node.js
+ This is a readme generator using node.js
 
 ## Installation
- install node.js and inquierer
+ Install node.js and inquirer
 
 ## Usage
- this is where instructions would go
+Type node index.js and then answer the questions!
 
 ## License
  GNU AGPLv3
  (https://choosealicense.com/licenses/agpl-3.0/)
  
 ## Contributing
- no thanks
+No other contributors allowed.
  
-## Tests
- naaa
-
 ## Questions
- If you have any questions about the repo, please open an issue in my GitHub at padenallen15 or email me at padenallen15@yahoo.com.
+ If you have any questions about the repo, ask someone else.
 
  Generated with ❤️ by Paden Allen
